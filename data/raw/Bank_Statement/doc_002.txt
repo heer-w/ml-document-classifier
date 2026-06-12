@@ -1,0 +1,19 @@
+BANK STATEMENT
+Sullivan-Bird Bank
+Account Holder: Cheryl Clark
+Account Number: KCLU98618410373258
+Statement Period: 2014-02-21 to 2017-10-16
+
+Date         Description                  Debit      Credit     Balance
+1996-10-23   Berry, Jennings and Hampton             $2739       $52497
+1985-02-25   Lewis Inc                    $3722                  $48775
+2014-04-15   Hernandez-Perez                         $4287       $53062
+2019-04-05   Cross LLC                    $1490                  $51572
+1982-07-25   Williams-Collins             $2424                  $49148
+2005-12-18   Turner-Hughes                           $2845       $51993
+2009-11-05   Conrad-Flynn                 $2024                  $49969
+1988-11-10   Montgomery Ltd               $1940                  $48029
+
+Closing Balance: $48029
+Minimum Balance Required: $1000
+Interest Earned: $47

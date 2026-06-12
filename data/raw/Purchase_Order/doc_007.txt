@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-8749
+Date: 1994-01-03
+Vendor: Hughes Inc
+Ship To: 11194 John Wells
+North Jeffrey, MD 45127
+
+Ordered By: Katherine Baker
+Department: Engage b2b action-items
+
+Item Description     Quantity    Unit Cost    Total Cost
+Left            27          $58       $872
+Use            4          $89        $932
+
+Total Order Value: $3402
+Delivery Date: 1987-03-02
+Terms: Net 30
+Authorized Signature: Tammy White

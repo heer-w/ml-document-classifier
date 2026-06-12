@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-7912
+Date: 2016-02-20
+Vendor: Hammond PLC
+Ship To: 0999 Allen Plaza Suite 320
+Conwayhaven, MH 05137
+
+Ordered By: Melanie Leonard
+Department: Extend magnetic paradigms
+
+Item Description     Quantity    Unit Cost    Total Cost
+Hand            12          $81       $3889
+Manager            8          $14        $957
+
+Total Order Value: $7119
+Delivery Date: 2006-04-25
+Terms: Net 30
+Authorized Signature: Jonathon Chan

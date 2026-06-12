@@ -1,0 +1,18 @@
+{
+  "n_features": 4343,
+  "vocab_size": 4340,
+  "ngram_range": [
+    1,
+    2
+  ],
+  "class_names": [
+    "Resume",
+    "Purchase_Order",
+    "Invoice",
+    "Email",
+    "Bank_Statement"
+  ],
+  "train_size": 80,
+  "val_size": 10,
+  "test_size": 10
+}

@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-7227
+Date: 2006-12-02
+Bill To: Jefferson, Wright and Ramirez
+Address: PSC 7022, Box 3501
+APO AA 01632
+
+Item          Qty    Unit Price    Total
+As Service   5    $282    $3088
+More Product   2     $114    $413
+
+Subtotal: $2216
+Tax (18% GST): $393
+Total Amount Due: $2787
+
+Payment Due Date: 2016-07-19
+Bank Account: DDDM44289137389445
+Thank you for your business.

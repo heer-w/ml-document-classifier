@@ -1,0 +1,19 @@
+BANK STATEMENT
+Smith, Murphy and Santos Bank
+Account Holder: Tina Kelley
+Account Number: EOZI08362883170492
+Statement Period: 1990-09-07 to 1994-11-27
+
+Date         Description                  Debit      Credit     Balance
+2010-02-25   Snyder, Hampton and Brown               $2319       $42055
+1986-10-24   Lewis-Robinson                          $1988       $44043
+2023-01-03   Delgado-Parsons                         $1677       $45720
+2019-09-07   Cameron-Bright               $4489                  $41231
+2011-03-03   Green-Decker                            $1616       $42847
+1984-01-14   Garcia Group                            $4066       $46913
+2009-03-07   Kline-King                   $4929                  $41984
+1976-10-21   Davis-Rowland                $4397                  $37587
+
+Closing Balance: $37587
+Minimum Balance Required: $1000
+Interest Earned: $35

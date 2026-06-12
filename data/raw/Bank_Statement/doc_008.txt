@@ -1,0 +1,19 @@
+BANK STATEMENT
+Wilson Ltd Bank
+Account Holder: Melissa Bowman
+Account Number: ABGS46020194078855
+Statement Period: 1982-10-23 to 1994-08-08
+
+Date         Description                  Debit      Credit     Balance
+1970-07-11   Lane-Swanson                 $1452                  $35045
+2012-11-18   Jackson-Ramos                $1145                  $33900
+2004-08-17   Bishop-Walton                           $4475       $38375
+1989-06-22   Bolton Ltd                   $3327                  $35048
+1971-11-25   Mata-Oconnell                           $322        $35370
+1983-07-09   Fletcher-Brown                          $3611       $38981
+2015-09-08   Garcia-Knight                           $3882       $42863
+2006-04-18   Anderson, Gonzalez and Norman            $2231       $45094
+
+Closing Balance: $45094
+Minimum Balance Required: $1000
+Interest Earned: $64

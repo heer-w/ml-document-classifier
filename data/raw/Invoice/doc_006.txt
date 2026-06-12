@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-9785
+Date: 1988-08-26
+Bill To: Fletcher Inc
+Address: 897 Steven Expressway
+West Shelbytown, MS 96766
+
+Item          Qty    Unit Price    Total
+Somebody Service   2    $243    $745
+Offer Product   5     $95    $899
+
+Subtotal: $3462
+Tax (18% GST): $345
+Total Amount Due: $2175
+
+Payment Due Date: 2012-12-26
+Bank Account: DMEH79928362334323
+Thank you for your business.

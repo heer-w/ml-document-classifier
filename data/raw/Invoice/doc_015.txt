@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-9669
+Date: 2000-04-24
+Bill To: Calderon, Moon and Blake
+Address: 28506 Elizabeth Greens Suite 150
+West Erinmouth, AZ 53416
+
+Item          Qty    Unit Price    Total
+Option Service   5    $333    $194
+Around Product   1     $194    $956
+
+Subtotal: $4898
+Tax (18% GST): $434
+Total Amount Due: $2785
+
+Payment Due Date: 2014-02-14
+Bank Account: MOAN52423242166121
+Thank you for your business.

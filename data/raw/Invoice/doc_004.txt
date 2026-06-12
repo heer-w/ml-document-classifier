@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-3615
+Date: 2003-01-08
+Bill To: Zamora Ltd
+Address: 5052 Lee Trail Suite 647
+Lake Pamela, CA 08847
+
+Item          Qty    Unit Price    Total
+Medical Service   7    $224    $2376
+Must Product   2     $75    $831
+
+Subtotal: $3257
+Tax (18% GST): $102
+Total Amount Due: $1359
+
+Payment Due Date: 1998-06-10
+Bank Account: RNVJ75046483264204
+Thank you for your business.

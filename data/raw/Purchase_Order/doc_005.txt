@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-6413
+Date: 2003-08-30
+Vendor: Owens, Scott and Fields
+Ship To: PSC 9133, Box 4974
+APO AE 49006
+
+Ordered By: John Alexander
+Department: E-enable integrated markets
+
+Item Description     Quantity    Unit Cost    Total Cost
+Think            5          $141       $2049
+Front            9          $90        $1044
+
+Total Order Value: $2255
+Delivery Date: 1978-04-13
+Terms: Net 30
+Authorized Signature: Angel Gibson

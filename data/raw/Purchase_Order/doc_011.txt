@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-2604
+Date: 1994-02-21
+Vendor: Perez, Kim and Mcguire
+Ship To: 209 Ballard Crossing Apt. 775
+New Chad, NE 62408
+
+Ordered By: Vanessa Jordan
+Department: Deploy 24/365 initiatives
+
+Item Description     Quantity    Unit Cost    Total Cost
+Large            4          $176       $4528
+Traditional            1          $16        $1947
+
+Total Order Value: $6673
+Delivery Date: 2019-06-09
+Terms: Net 30
+Authorized Signature: Tyler Johnson

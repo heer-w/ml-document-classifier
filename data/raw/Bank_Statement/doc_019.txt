@@ -1,0 +1,19 @@
+BANK STATEMENT
+Brown-Hughes Bank
+Account Holder: Tyler Thompson
+Account Number: OOLQ78666055567347
+Statement Period: 2025-11-27 to 1986-06-15
+
+Date         Description                  Debit      Credit     Balance
+2021-12-19   Walker, Sims and Shepherd    $3509                  $43064
+1986-04-05   Burnett LLC                  $1948                  $41116
+1992-01-25   Edwards Group                           $3216       $44332
+1993-10-30   Brown Ltd                               $3726       $48058
+2006-11-27   Black PLC                    $4921                  $43137
+2020-10-09   Frey-Valdez                  $2601                  $40536
+2013-02-06   Frank Ltd                    $593                   $39943
+2010-03-18   Davis-Hickman                $912                   $39031
+
+Closing Balance: $39031
+Minimum Balance Required: $1000
+Interest Earned: $63

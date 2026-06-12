@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-1821
+Date: 2003-09-10
+Vendor: Acosta-Wyatt
+Ship To: 4022 Karen Parkway Suite 773
+Lake Theresa, OR 82451
+
+Ordered By: Madison Duffy
+Department: Target extensible technologies
+
+Item Description     Quantity    Unit Cost    Total Cost
+Phone            38          $132       $4219
+Yes            17          $25        $166
+
+Total Order Value: $4660
+Delivery Date: 2002-03-24
+Terms: Net 30
+Authorized Signature: Casey Cole

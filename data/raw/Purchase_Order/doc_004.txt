@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-2163
+Date: 2011-12-09
+Vendor: Morris, Cooke and Clark
+Ship To: 28947 Kimberly Park Suite 905
+Hernandezton, MA 65533
+
+Ordered By: Lisa Miller
+Department: Unleash 24/365 markets
+
+Item Description     Quantity    Unit Cost    Total Cost
+Beyond            46          $171       $582
+Computer            8          $13        $1904
+
+Total Order Value: $757
+Delivery Date: 2010-03-21
+Terms: Net 30
+Authorized Signature: Johnny Ibarra

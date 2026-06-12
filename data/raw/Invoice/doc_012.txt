@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-3340
+Date: 1998-08-22
+Bill To: Williamson-Williams
+Address: 54917 Mary Ford
+Millerview, PR 28137
+
+Item          Qty    Unit Price    Total
+Simple Service   5    $121    $2120
+Challenge Product   5     $157    $319
+
+Subtotal: $4009
+Tax (18% GST): $348
+Total Amount Due: $3871
+
+Payment Due Date: 1982-02-15
+Bank Account: RDIO74218393968679
+Thank you for your business.

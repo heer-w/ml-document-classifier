@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-4923
+Date: 1998-04-28
+Bill To: Andrews, Clayton and Contreras
+Address: 13193 Christian Island
+Port Sheri, SD 25480
+
+Item          Qty    Unit Price    Total
+Upon Service   1    $173    $4747
+Use Product   1     $41    $799
+
+Subtotal: $4481
+Tax (18% GST): $467
+Total Amount Due: $1166
+
+Payment Due Date: 2020-07-06
+Bank Account: GCUH61943219542534
+Thank you for your business.

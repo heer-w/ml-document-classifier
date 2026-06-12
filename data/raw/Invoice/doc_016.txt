@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-6573
+Date: 1979-01-13
+Bill To: Goodman, Williams and Morgan
+Address: 868 Noble Junctions
+Port Shawn, MP 36320
+
+Item          Qty    Unit Price    Total
+Exist Service   2    $200    $3661
+Most Product   2     $136    $53
+
+Subtotal: $2657
+Tax (18% GST): $306
+Total Amount Due: $2063
+
+Payment Due Date: 1992-09-25
+Bank Account: KFDY09916031218544
+Thank you for your business.

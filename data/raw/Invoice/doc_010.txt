@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-4598
+Date: 1970-10-03
+Bill To: Barnes PLC
+Address: 445 Donald Street Apt. 786
+South Amyland, NJ 45093
+
+Item          Qty    Unit Price    Total
+Mother Service   6    $481    $558
+Foot Product   2     $28    $874
+
+Subtotal: $3084
+Tax (18% GST): $255
+Total Amount Due: $2793
+
+Payment Due Date: 1981-05-23
+Bank Account: FRJU14162119562875
+Thank you for your business.

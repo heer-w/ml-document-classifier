@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-2343
+Date: 1999-08-09
+Vendor: Brown LLC
+Ship To: 414 Johnson Mountains Apt. 957
+East Judith, SC 51544
+
+Ordered By: Tasha Owen
+Department: Aggregate impactful relationships
+
+Item Description     Quantity    Unit Cost    Total Cost
+Itself            27          $178       $4881
+Along            19          $71        $697
+
+Total Order Value: $2636
+Delivery Date: 1988-04-15
+Terms: Net 30
+Authorized Signature: Amy Steele

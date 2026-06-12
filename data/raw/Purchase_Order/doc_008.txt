@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-7939
+Date: 2009-10-19
+Vendor: Daugherty, Morris and Fowler
+Ship To: 35402 Barrett Stream
+Port Karenbury, MO 93179
+
+Ordered By: Matthew Greene
+Department: Facilitate holistic platforms
+
+Item Description     Quantity    Unit Cost    Total Cost
+Raise            27          $129       $543
+Important            4          $12        $874
+
+Total Order Value: $6465
+Delivery Date: 1994-07-10
+Terms: Net 30
+Authorized Signature: James Davidson

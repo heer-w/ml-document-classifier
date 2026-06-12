@@ -1,0 +1,19 @@
+BANK STATEMENT
+Moore, Wade and Payne Bank
+Account Holder: Claire Hughes
+Account Number: CZER36053294421010
+Statement Period: 1982-03-20 to 1988-11-18
+
+Date         Description                  Debit      Credit     Balance
+1983-06-20   Zhang Inc                    $4508                  $23192
+2020-10-09   Thompson, Richardson and Snyder            $3908       $27100
+2024-05-07   Ford, Williams and Williams             $4953       $32053
+2009-11-04   Wells LLC                    $2111                  $29942
+1998-08-22   Zamora Inc                              $809        $30751
+1974-06-06   Johnson-Ball                            $3792       $34543
+2017-05-16   Olson-Jackson                $3906                  $30637
+1992-03-03   Willis Inc                              $3204       $33841
+
+Closing Balance: $33841
+Minimum Balance Required: $1000
+Interest Earned: $136

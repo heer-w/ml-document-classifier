@@ -1,0 +1,19 @@
+BANK STATEMENT
+Roberts Inc Bank
+Account Holder: Jennifer Ball
+Account Number: FIWC07540303255698
+Statement Period: 1989-03-30 to 1995-04-25
+
+Date         Description                  Debit      Credit     Balance
+1978-04-24   Reynolds-Franklin                       $2777       $42576
+2010-04-27   Black, Cantu and Smith                  $3205       $45781
+1995-05-03   Gray, Yates and Russo                   $3553       $49334
+1984-10-17   Johnson-Gonzalez                        $770        $50104
+1990-01-13   Martinez-Bell                           $4518       $54622
+1984-03-01   Martin and Sons                         $2966       $57588
+1987-01-18   Carr Ltd                     $662                   $56926
+2018-03-29   Buck-Barrett                 $429                   $56497
+
+Closing Balance: $56497
+Minimum Balance Required: $1000
+Interest Earned: $73

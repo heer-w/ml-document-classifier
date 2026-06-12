@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-9727
+Date: 1999-02-08
+Bill To: Banks, Trevino and Cantrell
+Address: PSC 0035, Box 6819
+APO AE 89440
+
+Item          Qty    Unit Price    Total
+Section Service   3    $115    $3993
+Increase Product   5     $62    $321
+
+Subtotal: $4822
+Tax (18% GST): $496
+Total Amount Due: $5569
+
+Payment Due Date: 2003-03-25
+Bank Account: BBUO07828364925865
+Thank you for your business.

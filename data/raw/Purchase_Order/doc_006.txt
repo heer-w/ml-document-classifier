@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-9834
+Date: 1980-09-20
+Vendor: Wood, Lester and West
+Ship To: 8841 Taylor Walks Apt. 454
+West Todd, MP 10179
+
+Ordered By: Leslie Rodriguez
+Department: Engage distributed methodologies
+
+Item Description     Quantity    Unit Cost    Total Cost
+Listen            9          $195       $4777
+Suddenly            19          $65        $547
+
+Total Order Value: $6927
+Delivery Date: 1985-03-17
+Terms: Net 30
+Authorized Signature: Pamela Salinas

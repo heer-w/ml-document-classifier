@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-2312
+Date: 2009-03-07
+Vendor: Warren, Cunningham and Lopez
+Ship To: 3464 Robert Flats Apt. 615
+Justinburgh, DC 06892
+
+Ordered By: Rita Love
+Department: Embrace world-class technologies
+
+Item Description     Quantity    Unit Cost    Total Cost
+International            12          $27       $4974
+Guy            3          $91        $1815
+
+Total Order Value: $2426
+Delivery Date: 1997-08-14
+Terms: Net 30
+Authorized Signature: Chelsea Lewis

@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-7118
+Date: 1996-05-12
+Vendor: West, Cunningham and Sandoval
+Ship To: 09494 Brown Heights Suite 912
+Matthewtown, WA 42889
+
+Ordered By: Karen Rodriguez
+Department: Transform viral info-mediaries
+
+Item Description     Quantity    Unit Cost    Total Cost
+Leader            29          $142       $3798
+Structure            4          $36        $510
+
+Total Order Value: $1024
+Delivery Date: 1995-03-06
+Terms: Net 30
+Authorized Signature: James Moran

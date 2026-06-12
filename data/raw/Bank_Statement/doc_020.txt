@@ -1,0 +1,19 @@
+BANK STATEMENT
+Jones-Smith Bank
+Account Holder: Elizabeth Garrett
+Account Number: HSCL91869068541464
+Statement Period: 1980-05-05 to 1975-04-14
+
+Date         Description                  Debit      Credit     Balance
+1994-05-04   Sharp Inc                    $2267                  $21562
+1977-02-16   Clayton-Lynch                           $1386       $22948
+1987-05-28   Taylor-Stewart                          $4621       $27569
+1996-03-31   Hampton-Gibson                          $121        $27690
+2005-10-17   Callahan, Humphrey and Jones            $4964       $32654
+1993-06-29   Hurley, Silva and Roberts               $367        $33021
+2005-06-18   Dawson-Hart                  $2416                  $30605
+1985-12-23   Turner-Watts                            $3819       $34424
+
+Closing Balance: $34424
+Minimum Balance Required: $1000
+Interest Earned: $69

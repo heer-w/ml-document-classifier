@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-6930
+Date: 2007-05-17
+Bill To: Randall, Wood and Daniels
+Address: 6222 Nicholas Ville Apt. 188
+Lake Emma, KS 68045
+
+Item          Qty    Unit Price    Total
+Actually Service   4    $120    $4274
+Book Product   4     $43    $823
+
+Subtotal: $885
+Tax (18% GST): $490
+Total Amount Due: $1498
+
+Payment Due Date: 2022-03-31
+Bank Account: UWSK67428333221554
+Thank you for your business.

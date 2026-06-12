@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-6539
+Date: 1995-06-05
+Vendor: Moss-Hall
+Ship To: 276 Williamson Via Apt. 955
+Lake Jenniferland, WI 10333
+
+Ordered By: Alfred Levine
+Department: Cultivate collaborative e-commerce
+
+Item Description     Quantity    Unit Cost    Total Cost
+Father            2          $160       $4637
+Movement            8          $80        $501
+
+Total Order Value: $558
+Delivery Date: 1995-08-03
+Terms: Net 30
+Authorized Signature: Mary Hall

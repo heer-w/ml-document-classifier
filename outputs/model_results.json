@@ -1,0 +1,27 @@
+{
+  "Logistic_Regression": {
+    "val_accuracy": 1.0,
+    "test_accuracy": 1.0
+  },
+  "Linear_SVM": {
+    "val_accuracy": 1.0,
+    "test_accuracy": 1.0
+  },
+  "Naive_Bayes": {
+    "val_accuracy": 0.2,
+    "test_accuracy": 0.2
+  },
+  "Random_Forest": {
+    "val_accuracy": 1.0,
+    "test_accuracy": 1.0
+  },
+  "Gradient_Boosting": {
+    "val_accuracy": 1.0,
+    "test_accuracy": 1.0
+  },
+  "KNN": {
+    "val_accuracy": 0.8,
+    "test_accuracy": 0.8
+  },
+  "best_model": "Logistic_Regression"
+}

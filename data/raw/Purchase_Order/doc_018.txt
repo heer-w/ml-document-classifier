@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-7615
+Date: 2005-01-08
+Vendor: Burgess, Lee and Young
+Ship To: 2205 Washington Expressway
+East Katherine, MO 06490
+
+Ordered By: Derrick Williams
+Department: Morph value-added e-markets
+
+Item Description     Quantity    Unit Cost    Total Cost
+Simple            8          $155       $2116
+Sure            19          $81        $131
+
+Total Order Value: $5573
+Delivery Date: 2005-07-21
+Terms: Net 30
+Authorized Signature: Rebecca Norman

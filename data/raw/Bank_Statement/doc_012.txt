@@ -1,0 +1,19 @@
+BANK STATEMENT
+Fritz-Pearson Bank
+Account Holder: Megan Charles
+Account Number: AIRR96391270157576
+Statement Period: 1985-10-16 to 1994-02-11
+
+Date         Description                  Debit      Credit     Balance
+2019-11-01   Greene, Aguilar and Morales  $3609                  $41304
+2006-05-10   Perkins Inc                  $664                   $40640
+2025-07-11   Berry-Castro                            $2895       $43535
+1988-11-15   Thomas-Wilson                $3541                  $39994
+2020-07-07   Clark-Schaefer                          $964        $40958
+2006-02-06   Frey-Flores                  $3067                  $37891
+2023-01-17   Evans Group                  $3866                  $34025
+1977-02-27   Fox LLC                                 $3667       $37692
+
+Closing Balance: $37692
+Minimum Balance Required: $1000
+Interest Earned: $143

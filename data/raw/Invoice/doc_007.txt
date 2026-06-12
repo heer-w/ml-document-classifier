@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-2139
+Date: 1973-04-10
+Bill To: Hernandez PLC
+Address: PSC 5059, Box 9596
+APO AE 20396
+
+Item          Qty    Unit Price    Total
+Public Service   1    $388    $1966
+Claim Product   3     $40    $925
+
+Subtotal: $2407
+Tax (18% GST): $493
+Total Amount Due: $1427
+
+Payment Due Date: 2013-02-28
+Bank Account: BOMJ29536167252109
+Thank you for your business.

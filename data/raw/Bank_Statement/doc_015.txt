@@ -1,0 +1,19 @@
+BANK STATEMENT
+Lee Inc Bank
+Account Holder: Kimberly Garcia
+Account Number: FHSQ87104135096892
+Statement Period: 2020-11-09 to 1971-01-26
+
+Date         Description                  Debit      Credit     Balance
+1989-04-20   Williams, Murray and Sampson            $4120       $45321
+1991-04-30   Johnson Ltd                             $241        $45562
+2012-03-09   Mitchell-Fuentes                        $1915       $47477
+2014-02-26   Jones, Byrd and Anderson                $2093       $49570
+1983-06-02   Smith Group                             $4864       $54434
+2021-10-02   Lewis-Wang                   $4634                  $49800
+1980-04-03   Hull-Warren                  $3585                  $46215
+2012-01-29   Vargas-Stone                            $4608       $50823
+
+Closing Balance: $50823
+Minimum Balance Required: $1000
+Interest Earned: $189

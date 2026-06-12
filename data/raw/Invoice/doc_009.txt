@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-2169
+Date: 1997-03-18
+Bill To: Guzman and Sons
+Address: 847 Daniel Turnpike
+Sanchezview, MH 38829
+
+Item          Qty    Unit Price    Total
+Morning Service   10    $375    $1501
+Him Product   5     $82    $217
+
+Subtotal: $4286
+Tax (18% GST): $244
+Total Amount Due: $2811
+
+Payment Due Date: 2019-06-28
+Bank Account: XMIP89974355435170
+Thank you for your business.

@@ -1,0 +1,19 @@
+BANK STATEMENT
+Perry Group Bank
+Account Holder: Stephen Smith
+Account Number: FUJQ98905197071075
+Statement Period: 1988-03-20 to 2016-10-08
+
+Date         Description                  Debit      Credit     Balance
+2021-11-17   Orozco-Sharp                            $1335       $20403
+1984-02-10   Griffith, Trujillo and Charles $1351                  $19052
+1988-09-11   Santana-Little                          $626        $19678
+2011-05-25   Gonzalez, Smith and Mahoney  $2810                  $16868
+1991-04-23   Fuller Inc                              $3506       $20374
+2008-05-23   Daniel-Davis                            $3541       $23915
+2020-12-29   Williams Ltd                 $4884                  $19031
+2023-06-22   Ayala, Ramirez and Miller    $260                   $18771
+
+Closing Balance: $18771
+Minimum Balance Required: $1000
+Interest Earned: $157

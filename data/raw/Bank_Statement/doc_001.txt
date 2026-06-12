@@ -1,0 +1,19 @@
+BANK STATEMENT
+Rowe-Wright Bank
+Account Holder: James Ellis
+Account Number: UJON74188020783744
+Statement Period: 1987-07-19 to 1990-07-17
+
+Date         Description                  Debit      Credit     Balance
+1975-03-20   Russell-Baxter                          $3445       $33714
+1975-01-08   Pearson, Wilkinson and Buchanan $2522                  $31192
+2007-08-11   Reed and Sons                           $1671       $32863
+2011-07-15   Cruz Ltd                     $3205                  $29658
+1973-05-22   Henderson Group              $1525                  $28133
+1993-01-05   Barton, Peterson and Petty              $2565       $30698
+2007-10-08   Garcia PLC                              $103        $30801
+1977-04-21   Mason Inc                               $1821       $32622
+
+Closing Balance: $32622
+Minimum Balance Required: $1000
+Interest Earned: $158

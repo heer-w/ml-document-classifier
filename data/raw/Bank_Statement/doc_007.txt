@@ -1,0 +1,19 @@
+BANK STATEMENT
+Hart, Christensen and Fuller Bank
+Account Holder: Nichole Simpson
+Account Number: QOKL01060335742734
+Statement Period: 1973-01-01 to 2015-06-07
+
+Date         Description                  Debit      Credit     Balance
+1978-09-30   Miller, Patel and Anderson              $4007       $38935
+1998-02-13   Dudley-Sanders                          $2981       $41916
+2010-07-21   Joseph, Mcmahon and Brooks   $3294                  $38622
+2025-05-04   Aguilar, Johns and Anderson  $3532                  $35090
+2000-04-04   Gray-Guerrero                $4573                  $30517
+2025-08-28   Miranda, Johnson and Cobb               $1906       $32423
+1972-07-13   Johnson Inc                             $2335       $34758
+1986-06-19   Owens-Scott                             $337        $35095
+
+Closing Balance: $35095
+Minimum Balance Required: $1000
+Interest Earned: $181

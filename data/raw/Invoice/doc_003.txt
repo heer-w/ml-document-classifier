@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-1434
+Date: 2008-08-15
+Bill To: Woods-Massey
+Address: 47156 Tracy Tunnel Apt. 059
+Wagnerhaven, WY 08477
+
+Item          Qty    Unit Price    Total
+Large Service   9    $151    $4564
+Later Product   4     $76    $509
+
+Subtotal: $2778
+Tax (18% GST): $464
+Total Amount Due: $653
+
+Payment Due Date: 2000-10-01
+Bank Account: TOBH58722979908759
+Thank you for your business.

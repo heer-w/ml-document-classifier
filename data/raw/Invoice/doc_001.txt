@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-2824
+Date: 2011-04-24
+Bill To: Murphy-Nielsen
+Address: 960 Morgan Hills
+West Angela, IA 43531
+
+Item          Qty    Unit Price    Total
+Plant Service   1    $429    $2353
+Treat Product   2     $77    $192
+
+Subtotal: $1339
+Tax (18% GST): $396
+Total Amount Due: $5067
+
+Payment Due Date: 1993-12-03
+Bank Account: SVNB47401457664780
+Thank you for your business.

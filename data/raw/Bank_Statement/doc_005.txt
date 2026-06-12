@@ -1,0 +1,19 @@
+BANK STATEMENT
+Hall-Murphy Bank
+Account Holder: Stephen Cox
+Account Number: QHAX76789639634551
+Statement Period: 1993-01-13 to 1971-03-25
+
+Date         Description                  Debit      Credit     Balance
+1981-08-21   Sanchez Inc                             $3786       $44894
+2002-03-22   Ward PLC                     $2125                  $42769
+2025-09-18   Whitehead Group              $2371                  $40398
+2010-11-12   Murray-Rodriguez                        $4370       $44768
+1992-09-10   Smith and Sons                          $2059       $46827
+2018-12-24   Hernandez Inc                $734                   $46093
+1993-08-23   Moore-Soto                              $2020       $48113
+2006-05-28   Bradford and Sons            $2719                  $45394
+
+Closing Balance: $45394
+Minimum Balance Required: $1000
+Interest Earned: $30

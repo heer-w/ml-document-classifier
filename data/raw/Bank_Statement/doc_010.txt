@@ -1,0 +1,19 @@
+BANK STATEMENT
+Oliver-Reeves Bank
+Account Holder: Austin Green
+Account Number: MLOK34816487706077
+Statement Period: 2024-10-20 to 1986-02-13
+
+Date         Description                  Debit      Credit     Balance
+1972-12-16   Richards-Steele              $266                   $22799
+2024-02-22   Parker Group                            $2054       $24853
+1977-04-18   Harris Group                 $1037                  $23816
+2006-09-04   Clark, Moss and Montgomery              $1885       $25701
+2008-03-11   Jones, Jones and Pruitt      $2199                  $23502
+1983-09-03   Christensen, Fletcher and Garcia $1474                  $22028
+2004-04-01   Smith Inc                    $1038                  $20990
+2003-03-01   Ward LLC                     $1441                  $19549
+
+Closing Balance: $19549
+Minimum Balance Required: $1000
+Interest Earned: $37

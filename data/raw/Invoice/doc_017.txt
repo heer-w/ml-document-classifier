@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-9317
+Date: 2023-07-17
+Bill To: Pearson-Alvarado
+Address: 92934 Christopher Plains
+Danielton, MA 53459
+
+Item          Qty    Unit Price    Total
+Not Service   2    $495    $2544
+Firm Product   5     $175    $253
+
+Subtotal: $1752
+Tax (18% GST): $241
+Total Amount Due: $1923
+
+Payment Due Date: 2017-10-21
+Bank Account: NAJY55994476186501
+Thank you for your business.

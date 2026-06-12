@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-7224
+Date: 1979-06-22
+Bill To: Jones, Bridges and Harper
+Address: 23974 Hunt Ferry Suite 525
+Port Madisonton, MO 06194
+
+Item          Qty    Unit Price    Total
+Attack Service   2    $233    $2917
+Reflect Product   5     $87    $876
+
+Subtotal: $855
+Tax (18% GST): $423
+Total Amount Due: $4363
+
+Payment Due Date: 2004-06-14
+Bank Account: MNCV83417860114092
+Thank you for your business.

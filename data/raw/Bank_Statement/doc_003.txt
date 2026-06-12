@@ -1,0 +1,19 @@
+BANK STATEMENT
+Wright and Sons Bank
+Account Holder: Christian Delgado
+Account Number: IDZV05795285230592
+Statement Period: 2014-04-04 to 1991-03-16
+
+Date         Description                  Debit      Credit     Balance
+1981-07-14   Smith PLC                               $478        $12078
+2011-03-06   Elliott-Juarez               $3992                  $8086
+2018-06-17   Owen-Nicholson                          $696        $8782
+2025-05-05   Rodgers, Barker and Glover              $4815       $13597
+2009-06-19   Cooley, Grant and Quinn                 $3245       $16842
+2015-12-23   Gillespie, Lowery and Miller            $2098       $18940
+2025-02-20   Thomas, Fox and Olsen        $145                   $18795
+1992-12-08   Rodriguez, Moore and Hill    $973                   $17822
+
+Closing Balance: $17822
+Minimum Balance Required: $1000
+Interest Earned: $66

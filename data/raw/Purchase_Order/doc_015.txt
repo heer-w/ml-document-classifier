@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-4566
+Date: 1997-09-26
+Vendor: Williams PLC
+Ship To: Unit 2294 Box 6996
+DPO AP 40597
+
+Ordered By: Linda Hatfield
+Department: Whiteboard plug-and-play experiences
+
+Item Description     Quantity    Unit Cost    Total Cost
+Stop            4          $158       $4541
+Population            2          $100        $692
+
+Total Order Value: $968
+Delivery Date: 1994-03-05
+Terms: Net 30
+Authorized Signature: Anna Neal

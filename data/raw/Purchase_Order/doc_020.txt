@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-4346
+Date: 1975-12-01
+Vendor: Roberts LLC
+Ship To: 820 James Parkway Apt. 057
+Brianside, MT 15804
+
+Ordered By: Stacy Beard
+Department: Engage killer e-markets
+
+Item Description     Quantity    Unit Cost    Total Cost
+Successful            43          $193       $2673
+More            8          $38        $860
+
+Total Order Value: $1572
+Delivery Date: 1999-11-13
+Terms: Net 30
+Authorized Signature: Richard Henry DDS

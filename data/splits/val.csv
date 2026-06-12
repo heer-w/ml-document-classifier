@@ -1,0 +1,11 @@
+file_path,class_label,word_count,source
+data/raw/Bank_Statement/doc_015.txt,Bank_Statement,72,faker_generated
+data/raw/Resume/doc_004.txt,Resume,117,faker_generated
+data/raw/Purchase_Order/doc_017.txt,Purchase_Order,59,faker_generated
+data/raw/Email/doc_001.txt,Email,64,faker_generated
+data/raw/Bank_Statement/doc_008.txt,Bank_Statement,68,faker_generated
+data/raw/Invoice/doc_007.txt,Invoice,55,faker_generated
+data/raw/Invoice/doc_009.txt,Invoice,55,faker_generated
+data/raw/Email/doc_018.txt,Email,77,faker_generated
+data/raw/Resume/doc_014.txt,Resume,96,faker_generated
+data/raw/Purchase_Order/doc_003.txt,Purchase_Order,57,faker_generated

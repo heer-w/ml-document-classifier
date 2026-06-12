@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-3504
+Date: 2014-09-28
+Bill To: Hickman, Silva and Spencer
+Address: 37158 Judy Circle
+Carrollfort, SC 68682
+
+Item          Qty    Unit Price    Total
+Green Service   3    $455    $3558
+Loss Product   5     $36    $444
+
+Subtotal: $3626
+Tax (18% GST): $355
+Total Amount Due: $4434
+
+Payment Due Date: 2020-09-30
+Bank Account: YMRB19512336019902
+Thank you for your business.

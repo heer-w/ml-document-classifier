@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-6559
+Date: 1971-03-13
+Vendor: Castro Inc
+Ship To: 28635 Wong Throughway
+West Stephanieshire, WI 75184
+
+Ordered By: Amanda Kline
+Department: Unleash clicks-and-mortar architectures
+
+Item Description     Quantity    Unit Cost    Total Cost
+Few            7          $73       $1669
+Decade            7          $73        $968
+
+Total Order Value: $1648
+Delivery Date: 1996-02-24
+Terms: Net 30
+Authorized Signature: Christy Brennan

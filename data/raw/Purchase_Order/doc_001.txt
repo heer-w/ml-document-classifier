@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-7932
+Date: 1973-11-08
+Vendor: Smith PLC
+Ship To: 480 Patterson Locks Suite 696
+West Ashleyborough, AL 64627
+
+Ordered By: Bruce Morris
+Department: Unleash cross-platform networks
+
+Item Description     Quantity    Unit Cost    Total Cost
+Trade            14          $148       $1747
+Join            10          $56        $1425
+
+Total Order Value: $5823
+Delivery Date: 1996-11-15
+Terms: Net 30
+Authorized Signature: Crystal Matthews

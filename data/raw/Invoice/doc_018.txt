@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-9837
+Date: 1993-01-16
+Bill To: Stephens and Sons
+Address: 5658 Emily Courts
+Oliverhaven, DE 76378
+
+Item          Qty    Unit Price    Total
+Method Service   9    $50    $2755
+Computer Product   4     $24    $164
+
+Subtotal: $3473
+Tax (18% GST): $499
+Total Amount Due: $3119
+
+Payment Due Date: 1973-07-23
+Bank Account: DWTN76941826193650
+Thank you for your business.

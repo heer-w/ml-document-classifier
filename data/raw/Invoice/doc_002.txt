@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-2424
+Date: 2023-05-11
+Bill To: Hall-Martinez
+Address: 878 Alvarez Brooks Apt. 968
+East Leroy, NJ 90397
+
+Item          Qty    Unit Price    Total
+Artist Service   10    $266    $360
+Wonder Product   1     $43    $273
+
+Subtotal: $2405
+Tax (18% GST): $308
+Total Amount Due: $5531
+
+Payment Due Date: 2007-08-21
+Bank Account: ZDLT03080848376978
+Thank you for your business.

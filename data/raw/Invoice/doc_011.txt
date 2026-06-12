@@ -1,0 +1,18 @@
+INVOICE
+Invoice No: INV-2084
+Date: 1977-05-03
+Bill To: Wyatt-Davis
+Address: 839 Sexton Stream
+West Melinda, VI 31718
+
+Item          Qty    Unit Price    Total
+Skin Service   4    $340    $2677
+Physical Product   2     $187    $561
+
+Subtotal: $3741
+Tax (18% GST): $379
+Total Amount Due: $4358
+
+Payment Due Date: 1986-09-30
+Bank Account: CMLT85661596182771
+Thank you for your business.

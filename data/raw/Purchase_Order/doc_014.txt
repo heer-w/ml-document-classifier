@@ -1,0 +1,18 @@
+PURCHASE ORDER
+PO Number: PO-8454
+Date: 2010-06-02
+Vendor: Gonzalez Group
+Ship To: Unit 3834 Box 9403
+DPO AP 97198
+
+Ordered By: Beverly Hoffman
+Department: Innovate interactive partnerships
+
+Item Description     Quantity    Unit Cost    Total Cost
+Next            19          $118       $4652
+Computer            16          $24        $438
+
+Total Order Value: $2930
+Delivery Date: 2021-11-24
+Terms: Net 30
+Authorized Signature: Victoria Ward

@@ -1,0 +1,19 @@
+BANK STATEMENT
+Stephens, Montgomery and Carr Bank
+Account Holder: Christopher Trujillo
+Account Number: MZXQ29759460780461
+Statement Period: 2021-07-12 to 1977-01-10
+
+Date         Description                  Debit      Credit     Balance
+1994-10-29   Long, Warren and Harris                 $1589       $32889
+2007-04-28   Martin Group                 $3006                  $29883
+1979-07-08   Brown PLC                               $2888       $32771
+2001-02-02   Wood-Rice                    $4983                  $27788
+2013-10-13   Martinez-Duncan              $2363                  $25425
+2020-07-18   Benjamin, Underwood and Wilson $4332                  $21093
+1970-11-08   Johnson-Robinson                        $801        $21894
+1973-08-10   Harris-Ryan                             $3429       $25323
+
+Closing Balance: $25323
+Minimum Balance Required: $1000
+Interest Earned: $71

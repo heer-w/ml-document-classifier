@@ -1,0 +1,19 @@
+BANK STATEMENT
+Cunningham Inc Bank
+Account Holder: Juan Mendez
+Account Number: AWDD73194533189382
+Statement Period: 1974-03-10 to 2019-03-15
+
+Date         Description                  Debit      Credit     Balance
+2022-03-28   Thompson Ltd                 $310                   $47614
+2016-04-24   Ayala, Ferguson and Hall     $4816                  $42798
+1993-01-28   Hernandez-Barnes                        $3174       $45972
+1979-03-25   Mcdaniel-Wright                         $1724       $47696
+2000-06-09   Jones Ltd                               $2089       $49785
+1984-11-06   Tran PLC                     $2570                  $47215
+2021-04-21   Owens-May                    $1091                  $46124
+1979-02-17   Richards-Ramirez             $4736                  $41388
+
+Closing Balance: $41388
+Minimum Balance Required: $1000
+Interest Earned: $98

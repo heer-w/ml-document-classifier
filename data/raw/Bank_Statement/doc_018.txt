@@ -1,0 +1,19 @@
+BANK STATEMENT
+Wilson, Soto and Gross Bank
+Account Holder: Mark Klein
+Account Number: SRBK46886097605699
+Statement Period: 1977-05-28 to 1975-02-03
+
+Date         Description                  Debit      Credit     Balance
+1994-07-09   Contreras-Duffy                         $3708       $45081
+1989-01-23   Gibson, Munoz and Mack                  $520        $45601
+1974-06-05   Reynolds and Sons                       $4013       $49614
+1991-08-27   Nielsen PLC                             $635        $50249
+1999-09-26   Berger-Bender                $706                   $49543
+2020-12-28   Smith-Moss                              $539        $50082
+1991-05-23   Peters Inc                   $4710                  $45372
+2003-06-30   Dyer-Martinez                $797                   $44575
+
+Closing Balance: $44575
+Minimum Balance Required: $1000
+Interest Earned: $40

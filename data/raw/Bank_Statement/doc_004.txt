@@ -1,0 +1,19 @@
+BANK STATEMENT
+Jordan-Russell Bank
+Account Holder: Melissa Morris
+Account Number: VKEC42462403061482
+Statement Period: 1985-03-25 to 1994-10-27
+
+Date         Description                  Debit      Credit     Balance
+2021-04-24   Mccall and Sons                         $4343       $25869
+1993-10-13   Allen-Ryan                              $4666       $30535
+1977-11-22   Sutton LLC                              $1094       $31629
+1970-09-05   Owens, Brown and Murray      $3906                  $27723
+2004-03-17   Lopez, Mason and Wang        $4678                  $23045
+2012-07-12   Lewis-Woods                  $3725                  $19320
+2023-04-06   Diaz-Hall                               $4235       $23555
+2018-03-15   Jones-Guerrero                          $4588       $28143
+
+Closing Balance: $28143
+Minimum Balance Required: $1000
+Interest Earned: $50
